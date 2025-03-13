@@ -12,4 +12,4 @@ My personal portfolio website.
 ## Acknowledgements
 
 - **Fonts:** IBM Plex Sans, IBM Plex Mono, IBM Plex Serif
-- **Eigenlayer:** Design inspiration
+- **Design inspiration:** Eigenlayer
