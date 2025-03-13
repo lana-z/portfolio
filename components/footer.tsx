@@ -51,7 +51,7 @@ export default function Footer() {
               <div className="border-t border-[#000]/80">
               <div className="link-row flex m-4 items-center">
                 <div className="footertitle w-48">
-                  <div className="text-[#e25c3d] font-sans font-bold uppercase text-xs">Lana's Companies</div>
+                  <div className="text-[#e25c3d] font-sans font-bold uppercase text-xs">Lana&apos;s Companies</div>
                 </div>
                 <div className="links flex space-x-12">
                   <Link

@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 import Image from "next/image"
-import { FaDiscord, FaTelegram, FaYoutube, FaTwitter, FaGithub, FaLinkedin } from "react-icons/fa"
+import { FaDiscord, FaTelegram, FaTwitter, FaGithub, FaLinkedin } from "react-icons/fa"
 
 export default function NavBar() {
   const copyDiscordUsername = () => {
